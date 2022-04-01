@@ -1,11 +1,11 @@
 {
-  "name": "ExamplePlugin",
+  "name": "ScaffoldPlus",
   "version": "1.0",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Port of Doogie13's scaffold",
+  "url": "https://github.com/urFate/ScaffoldPlus",
+  "authors": [ "Doogie13", "urFate" ],
+  "main_class": "me.urfate.ScaffoldPlusPlugin",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [ "mixins.ScaffoldPlus.json" ],
   "required_plugins": []
 }

@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.urfate.mixins",
+  "refmap": "mixins.ScaffoldPlus.refmap.json",
+  "client": [
+    "entity.MixinEntity",
+    "player.MixinEntityPlayerSP"
+  ]
+}
